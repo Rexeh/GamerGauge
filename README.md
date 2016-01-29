@@ -1,7 +1,7 @@
 GamerGauge
 =============
 
-Welcome to the GITHUB repository for gamergauge.co.uk, the only rating system for online gaming communities!
+Welcome to the GITHUB repository for www.gamergauge.co.uk, the only rating system for online gaming communities!
 
 This is to serve as a bug/feature tracker for the project.
 
